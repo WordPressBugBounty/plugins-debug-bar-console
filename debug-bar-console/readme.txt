@@ -1,7 +1,7 @@
 === Debug Bar Console ===
 Contributors: drewapicture, koopersmith
 Tags: debugging, developer, console
-Tested up to: 6.7
+Tested up to: 6.9
 Stable tag: 0.3.1
 Requires at least: 3.1
 License: GPLv2
